@@ -1,0 +1,101 @@
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  max-width: 1070px;
+  width: 100%;
+  margin: auto;
+  font-size: 1rem;
+  margin-top: 2rem;
+  padding-bottom: 7rem;
+  .contact-info {
+    flex: 1;
+
+    h2 {
+      color:  rgba(38, 167, 6, 0.6);
+    }
+
+    p {
+      margin: 10px 0;
+      color: white;
+    }
+  }
+
+  .form-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+  
+.input-group{
+  display: flex;
+  gap: 3rem;
+  .groupe-container{
+    display: flex;
+    flex-direction: column;
+  }
+}
+    input,
+    textarea {
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      width: 100%;
+    }
+
+    textarea {
+      resize: none;
+    }
+
+    .checkbox-group {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    button {
+      background: linear-gradient(90deg, rgba(38, 167, 6, 0.6), #2980b9);
+      color: white;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: 0.3s ease-in-out;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+    .success-message {
+      color: white;
+    }
+  }
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+
+  .success-message {
+    color:  rgba(38, 167, 6, 0.6);
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+   
+  
+  }
+}

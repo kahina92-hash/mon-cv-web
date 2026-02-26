@@ -1,0 +1,83 @@
+$primary-rgb: 0 21 79; 
+$primary-color: rgb($primary-rgb);
+.container-projets {
+   
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column; // Aligner le titre et la grille
+    align-items: center; // Centre horizontalement
+  
+    h1 {
+      margin-bottom: 20px;
+      font-size: 2rem;
+      strong{
+        color: rgba(124, 214, 101, 0.6);
+      }
+    }
+  ul{
+   
+    display: flex;
+    gap: 1rem;
+    li{
+      list-style: none;
+      background-color: white;
+      color: $primary-color;
+      padding: 0.5rem;
+      border-radius: 10px;
+    }
+  }
+    .list-projets {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); // 3 colonnes
+      grid-template-rows: repeat(3, auto); // 3 lignes
+      gap: 20px; // Espacement entre les cartes
+      justify-content: center;
+      align-items: center;
+      width: fit-content; // Ajuste la largeur à la grille
+      .carousel{
+        width: 200px;
+        height: 400px;
+      }
+    }
+  }
+  
+
+  @media (max-width: 1268px) {
+    .container-projets {
+      ul{
+       display: grid;
+       grid-template-columns: repeat(5, 1fr);
+             grid-template-rows: repeat(3, auto);
+      }
+      .list-projets{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, auto);
+      }
+    }
+
+
+
+  }
+
+  @media (max-width: 768px) {
+    .container-projets {
+      margin: auto;
+      width: 100%;
+       box-sizing: border-box;
+      ul{
+       display: grid;
+       grid-template-columns: repeat(3, 1fr);
+       
+     
+      }
+      .list-projets{
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+
+
+  }

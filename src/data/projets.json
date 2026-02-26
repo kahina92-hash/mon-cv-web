@@ -1,0 +1,69 @@
+[{
+    "id": "1",
+    "title": "SEB",
+
+    "picture": "/images/seb.webp",
+    "description": "Intégratrice Web et chargée de digitalisation",
+
+    "langages": ["Digitalisation", "Web", "Tests"],
+    "lien": "https://github.com/kahina92-hash/portofolio.git",
+
+    "images": [
+      "/images/img3-seb (2).webp",
+      "/images/img4-seb.webp",
+      "/images/img3-seb (1).webp",
+      "/images/img5-seb.webp"
+    ],
+    "Compétences_acquises": ["Analyse des besoins fonctionnels", "Gestion et validation des données et informations",
+      " Participation à la digitalisation des processus", "Vérification de la conformité des informations", "Collaboration avec les équipes techniques"
+    ],
+    "context": "Mon projet est basé sur la digitalisation sur la ligne de  production du site d’Is-Sur-Tille aujourd’hui ,la flexibilité  des lignes de montage nécessite un nombre important d’informations aux postes (mode opératoire, consigne qualité ,consigne sécurité et checklist) afin de mettre en place des solutions universelles il existe plusieurs projets qui évoluent en parallèle ils peuvent être répartis en deux grandes catégories la descente d’information et la monté d’informations"
+
+  },
+  {
+    "id": "2",
+    "title": "Openclasroom ",
+
+    "picture": "/images/Openclasroom .webp",
+    "description": "Développeuse Front-End & Testeuse QA",
+    "langages": ["React", "Node.js", "MongoDB", "JavaSript", "Html/Css", "Redux"],
+    "lien": "https://github.com/Kahina24D/ArgentBank-Frontend.git",
+    "images": [
+      "/images/argent-bank1.webp",
+      "/images/booki3.webp",
+      "/images/ohmyfood3.webp",
+      "/images/kasa2.webp",
+      "/images/Nina3.webp",
+      "/images/sophie3.webp",
+      "/images/events2.webp"
+
+
+    ],
+    "Compétences_acquises": [" Développement d’interfaces web avec HTML, CSS, JavaScript et React", "Intégration et utilisation d’API REST avec Node.js",
+      "  Manipulation de données dynamiques et gestion des états", "Réalisation de tests fonctionnels et validation des fonctionnalités", "Rédaction de cas de test et identification des anomalies", "Utilisation d’outils et environnements de développement professionnels", "Application des bonnes pratiques de développement web", "Travail en méthodologie Agile et gestion de projet"
+    ],
+    "context": "Formation intensive de 7 mois en développement Front-End, avec la réalisation de 8 projets web complets. Développement d’interfaces dynamiques avec HTML, CSS, JavaScript, React et utilisation de Node.js pour comprendre le fonctionnement des API et du back-end. Chaque projet a inclus l’intégration d’API, la manipulation de données et l’utilisation d’outils professionnels. En parallèle, j’ai réalisé des tests fonctionnels des applications développées afin de valider les fonctionnalités, identifier les anomalies et garantir la qualité des solutions. Cette formation m’a permis d’acquérir des compétences solides en développement web et en assurance qualité dans un environnement proche des conditions professionnelles."
+  },
+  {
+    "id": "3",
+    "title": "Neoqualis",
+
+
+    "picture": "/images/neoqualis.webp",
+
+    "description": "Consultante test et automatisation ",
+    "langages": ["Tests Manuels", "Jira", "Squash TM", "Automatisation", "API"],
+    "lien": "https://github.com/kahina92-hash/Menu-Marker.git",
+    "images": [
+      "/images/quanta1.webp",
+      "/images/quanta2.webp"
+
+    ],
+    "Compétences_acquises": [" rédaction et exécution des cas de test.", "Tests fonctionnels et validation des fonctionnalités.",
+      "  Détection et suivi des anomalies via Jira.", "Créer le tableau Kanban pour suivre le déroulement du projet grâce à un outil de gestion de projet - Notion."
+    ],
+    "context": "Participation aux activités de test et d’assurance qualité d’une application web de gestion de menus pour restaurateurs. La mission consistait à valider les fonctionnalités développées, rédiger les cas de test, détecter les anomalies et garantir la conformité de l’application aux exigences fonctionnelles, dans un environnement Agile."
+
+  }
+
+]
