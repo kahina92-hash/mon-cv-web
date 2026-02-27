@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mon-cv-web/static/css/main.51810bad.css",
-    "main.js": "/mon-cv-web/static/js/main.eb58a166.js",
-    "static/js/453.1b6cbde4.chunk.js": "/mon-cv-web/static/js/453.1b6cbde4.chunk.js",
-    "static/media/image_presentation.png": "/mon-cv-web/static/media/image_presentation.a75e81a80415b33a0b8f.png",
-    "static/media/qui-suis-je-removebg-preview.png": "/mon-cv-web/static/media/qui-suis-je-removebg-preview.785407fe8bac293ab069.png",
-    "static/media/Logo.png": "/mon-cv-web/static/media/Logo.e544f47b49d538c7041b.png",
-    "static/media/Neoqualis.png": "/mon-cv-web/static/media/Neoqualis.d4693e26f866bfbad204.png",
-    "index.html": "/mon-cv-web/index.html",
-    "main.51810bad.css.map": "/mon-cv-web/static/css/main.51810bad.css.map",
-    "main.eb58a166.js.map": "/mon-cv-web/static/js/main.eb58a166.js.map",
-    "453.1b6cbde4.chunk.js.map": "/mon-cv-web/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/portofolio/static/css/main.51810bad.css",
+    "main.js": "/portofolio/static/js/main.17b8b2a7.js",
+    "static/js/453.1b6cbde4.chunk.js": "/portofolio/static/js/453.1b6cbde4.chunk.js",
+    "static/media/image_presentation.png": "/portofolio/static/media/image_presentation.a75e81a80415b33a0b8f.png",
+    "static/media/qui-suis-je-removebg-preview.png": "/portofolio/static/media/qui-suis-je-removebg-preview.785407fe8bac293ab069.png",
+    "static/media/Logo.png": "/portofolio/static/media/Logo.e544f47b49d538c7041b.png",
+    "static/media/Neoqualis.png": "/portofolio/static/media/Neoqualis.d4693e26f866bfbad204.png",
+    "index.html": "/portofolio/index.html",
+    "main.51810bad.css.map": "/portofolio/static/css/main.51810bad.css.map",
+    "main.17b8b2a7.js.map": "/portofolio/static/js/main.17b8b2a7.js.map",
+    "453.1b6cbde4.chunk.js.map": "/portofolio/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51810bad.css",
-    "static/js/main.eb58a166.js"
+    "static/js/main.17b8b2a7.js"
   ]
 }
