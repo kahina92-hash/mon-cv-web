@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.51810bad.css",
-    "main.js": "/portofolio/static/js/main.784908b2.js",
-    "static/js/453.1b6cbde4.chunk.js": "/portofolio/static/js/453.1b6cbde4.chunk.js",
-    "static/media/image_presentation.png": "/portofolio/static/media/image_presentation.a75e81a80415b33a0b8f.png",
-    "static/media/qui-suis-je-removebg-preview.png": "/portofolio/static/media/qui-suis-je-removebg-preview.785407fe8bac293ab069.png",
-    "static/media/Logo.png": "/portofolio/static/media/Logo.e544f47b49d538c7041b.png",
-    "static/media/Neoqualis.png": "/portofolio/static/media/Neoqualis.d4693e26f866bfbad204.png",
-    "index.html": "/portofolio/index.html",
-    "main.51810bad.css.map": "/portofolio/static/css/main.51810bad.css.map",
-    "main.784908b2.js.map": "/portofolio/static/js/main.784908b2.js.map",
-    "453.1b6cbde4.chunk.js.map": "/portofolio/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/portofolio-main/static/css/main.51810bad.css",
+    "main.js": "/portofolio-main/static/js/main.c1f0baab.js",
+    "static/js/453.1b6cbde4.chunk.js": "/portofolio-main/static/js/453.1b6cbde4.chunk.js",
+    "static/media/image_presentation.png": "/portofolio-main/static/media/image_presentation.a75e81a80415b33a0b8f.png",
+    "static/media/qui-suis-je-removebg-preview.png": "/portofolio-main/static/media/qui-suis-je-removebg-preview.785407fe8bac293ab069.png",
+    "static/media/Logo.png": "/portofolio-main/static/media/Logo.e544f47b49d538c7041b.png",
+    "static/media/Neoqualis.png": "/portofolio-main/static/media/Neoqualis.d4693e26f866bfbad204.png",
+    "index.html": "/portofolio-main/index.html",
+    "main.51810bad.css.map": "/portofolio-main/static/css/main.51810bad.css.map",
+    "main.c1f0baab.js.map": "/portofolio-main/static/js/main.c1f0baab.js.map",
+    "453.1b6cbde4.chunk.js.map": "/portofolio-main/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51810bad.css",
-    "static/js/main.784908b2.js"
+    "static/js/main.c1f0baab.js"
   ]
 }
